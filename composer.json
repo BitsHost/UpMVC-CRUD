@@ -1,0 +1,26 @@
+{
+    "name": "bitshost/upmvc-crud",
+    "description": "Building a Simple PHP CRUD Application with JavaScript Confirmation",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*",
+        "ext-mysqli": "*"
+    },
+    "authors": [
+        {
+            "name": "Adrian D",
+            "email": "contact@delvirai.net",
+            "homepage": "https://upmvc.com",
+            "role": "Developer"
+        }
+    ],
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/",
+            "MyApp\\Config\\": "config/"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+project-root/
+|-- public/
+|   |-- assets/
+|   |   |-- css/
+|   |   |   |-- styles.css
+|   |   |-- js/
+|   |   |   |-- script.js
+|-- src/
+|   |-- Controllers/
+|   |   |-- BaseController.php
+|   |   |-- CrudController.php
+|   |-- Models/
+|   |   |-- BaseModel.php
+|   |   |-- UserModel.php
+|   |-- Views/
+|   |   |-- BaseView.php
+|   |   |-- CrudView.php
+|-- .htaccess
+|-- composer.json
+|-- index.php
+|-- data.sql
