@@ -2,13 +2,13 @@
 require_once 'vendor/autoload.php';
 
 //error_reporting(1);
-use MyApp\Controllers\CrudController;
+use MyApp\Controllers\UserController;
 use MyApp\Models\UserModel;
-use MyApp\Views\CrudView;
+use MyApp\Views\UserView;
 
 
 
-$crudController = new CrudController(new UserModel(), new CrudView());
+$crudController = new UserController(new UserModel(), new UserView());
 $crudController->renderHeader();
 $crudController->handleRequest();
 $crudController->renderFooter();
