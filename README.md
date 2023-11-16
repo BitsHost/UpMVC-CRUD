@@ -7,30 +7,6 @@ Before getting started, make sure you have the following:
 A web server (e.g., Apache) installed on your machine.
 PHP installed.
 Basic knowledge of HTML, PHP, and JavaScript.
-Project Structure
-Here's the directory structure of our project:
-
-
-project-root/
-|-- public/
-|   |-- assets/
-|   |   |-- css/
-|   |   |   |-- styles.css
-|   |   |-- js/
-|   |   |   |-- script.js
-|-- src/
-|   |-- Controllers/
-|   |   |-- CrudController.php
-|   |-- Models/
-|   |   |-- UserModel.php
-|   |-- Views/
-|   |   |-- BaseView.php
-|   |   |-- CrudView.php
-|-- .htaccess
-|-- composer.json
-|-- index.php
-|-- data.sql
-
 
 
 Step 1: Setting Up the Project
