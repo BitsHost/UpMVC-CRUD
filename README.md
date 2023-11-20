@@ -1,6 +1,8 @@
 Building a Simple PHP CRUD Application with JavaScript Confirmation
 In this tutorial, we'll walk through the process of creating a basic PHP CRUD (Create, Read, Update, Delete) application. Additionally, we'll integrate a JavaScript confirmation dialog to ensure a user's intent before performing a delete operation.
 
+Demo: https://upmvc.com/crud/
+
 Prerequisites
 Before getting started, make sure you have the following:
 
