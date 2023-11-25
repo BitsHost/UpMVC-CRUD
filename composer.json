@@ -1,10 +1,10 @@
 {
     "name": "bitshost/upmvc-crud",
     "description": "Building a Simple PHP CRUD Application with JavaScript Confirmation",
+    "type": "project",
+    "minimum-stability": "dev",
     "require": {
-        "php": ">=8.2",
-        "another-vendor/package": "1.*",
-        "ext-mysqli": "*"
+        "php": ">=8.1"
     },
     "authors": [
         {
