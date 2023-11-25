@@ -3,6 +3,12 @@ In this tutorial, we'll walk through the process of creating a basic PHP CRUD (C
 
 Demo: https://upmvc.com/crud/
 
+###Composer Install
+Install:
+
+composer require bitshost/upmvc-crud
+composer create-project --prefer-dist --stability=dev bitshost/upmvc-crud yourfolder
+
 Prerequisites
 Before getting started, make sure you have the following:
 
